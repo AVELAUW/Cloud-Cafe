@@ -1,2 +1,2 @@
 # CloudCafe
-https://xintongbyte.github.io/CloudCafe/
+https://avelauw.github.io/Cloud-Cafe/

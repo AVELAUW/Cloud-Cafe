@@ -216,9 +216,9 @@ http://www.templatemo.com/tm-515-eatery
     margin-bottom: 0;
     padding: 25px 0;
   }
-
+/*----- new clor red for navbar-----*/
   .custom-navbar .navbar-brand {
-    color: #ffffff;
+    color: #ff0005;
     font-size: 18px;
     font-weight: bold;
   }

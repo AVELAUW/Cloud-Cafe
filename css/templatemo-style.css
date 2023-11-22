@@ -218,7 +218,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .custom-navbar .navbar-brand {
-    color: #ffffff;
+    color: ;
     font-size: 18px;
     font-weight: bold;
   }
@@ -228,7 +228,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .top-nav-collapse {
-    background: #ffffff;
+    background: #ffCE30;
   }
 
   .custom-navbar .navbar-nav.navbar-nav-first {
@@ -247,11 +247,11 @@ http://www.templatemo.com/tm-515-eatery
 
   .custom-navbar .navbar-nav.navbar-right .section-btn:hover {
     background: #292929;
-    color: #ffffff;
+    color: #E83845;
   }
 
   .custom-navbar .navbar-nav.navbar-right .section-btn:focus {
-    color: #ffffff;
+    color: #E389B9;
   }
 
   .custom-navbar .navbar-nav.navbar-right .section-btn a {
@@ -259,7 +259,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .custom-navbar .nav .section-btn a:hover {
-    color: #ffffff;
+    color: #f746AB0;
   }
 
   .custom-navbar .nav li a {
@@ -273,7 +273,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #fce300;
+    color: #288BA8;
   }
 
   .custom-navbar .navbar-nav > li > a:hover,
@@ -296,7 +296,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .custom-navbar .navbar-toggle .icon-bar {
-    background: #252525;
+    background: #ff0000;
     border-color: transparent;
   }
 
@@ -307,7 +307,7 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     .custom-navbar.top-nav-collapse {
-      background: #ffffff;
+      background: #ffa500;
       -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -315,15 +315,15 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     .top-nav-collapse .navbar-brand {
-      color: #454545;
+      color: #808000;
     }
 
     .top-nav-collapse .nav li a {
-      color: #575757;
+      color: #808080;
     }
 
     .top-nav-collapse .nav .section-btn a {
-      color: #ffffff;
+      color: #6ACCBC;
     }
   }
 
